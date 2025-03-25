@@ -20,7 +20,7 @@
 
 | Supervision & Monitoring | Gestion de projet |
 |--------------------------|-------------------|
-| ![Centreon](https://img.shields.io/badge/-Centreon-28B463?style=flat&logo=centreon&logoColor=white) ![Witbe](https://img.shields.io/badge/-Witbe-blue?style=flat) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) | ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white) ![Microsoft Planner](https://img.shields.io/badge/-Microsoft%20Planner-0078D4?style=flat&logo=microsoft&logoColor=white)  
+| ![Centreon](https://img.shields.io/badge/-Centreon-28B463?style=flat&logo=centreon&logoColor=white) ![Witbe](https://img.shields.io/badge/-Witbe-blue?style=flat) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) | ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white) ![Microsoft Planner](https://img.shields.io/badge/-Microsoft%20Planner-0078D4?style=flat&logo=microsoft&logoColor=white)  
 
 
 ---
