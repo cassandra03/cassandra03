@@ -7,7 +7,7 @@
 🎓 Étudiante en **Master 2 MIAGE** à l'Université de la Nouvelle-Calédonie  
 💼 Alternante au **Centre de supervision de l'OPT-NC**  
 🔍 Toujours prête à apprendre et à échanger sur de nouvelles technologies   
-📈 Intéressée par la **gestion de projet informatique**  
+📈 Intéressée par la **gestion de projet informatique** et **l'analyse de donnée**
 🤝 **Collaboration et gestion d'équipe** 
 
 ---
